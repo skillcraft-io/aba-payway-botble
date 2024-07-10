@@ -13,5 +13,9 @@ Note: Supported currencies for this plugin are `USD` and `KHR`.
 
 ## License
 
-This plugin is released under the [MIT license]
+This plugin is released under the [MIT license].
 
+## Documentation
+
+Here you'll find detailed documentation and references to help you integrate PayWay APIs on your software solution to take online payments securely on any platform.
+PayWay Developer Suite: https://www.payway.com.kh/developers
